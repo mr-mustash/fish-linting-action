@@ -1,0 +1,5 @@
+name: 'Fish Lint'
+description: 'Lint .fish files with fish -n.'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
